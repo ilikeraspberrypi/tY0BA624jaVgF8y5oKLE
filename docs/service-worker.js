@@ -3,5 +3,5 @@ importScripts(
 );
 workbox.routing.registerRoute(
     new RegExp('/.*'),
-    new workbox.strategies.NetworkFirst()
+    new workbox.strategies.StaleWhileRevalidate()
 );
