@@ -30,7 +30,7 @@
     ],
     "theme_color": "#BC1142",
     "background_color": "#FFFFFF",
-    "display": "standalone",
+    "display": "fullscreen",
     "scope": "https://ilikeraspberrypi.github.io/tY0BA624jaVgF8y5oKLE/",
     "orientation": "portrait"
 }
